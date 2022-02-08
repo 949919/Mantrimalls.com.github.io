@@ -1,6 +1,6 @@
 <?php
 
- if (empty($_POST['submit']))
+ if (empty($_POST['REDEEM']))
 {
  echo "Form is not submitted!";
 
